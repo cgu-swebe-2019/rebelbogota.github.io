@@ -1,5 +1,6 @@
 # Parallel Sessions C
 ## Friday - 2:10pm - 11:20am
+[Back to Sessions Overview](README.md)
 
 ### **C-1. Identity and Other-regarding Preferences**
 
