@@ -11,6 +11,11 @@ Time | Event
 6:00pm | Welcome Reception
 **Friday, October 19th**
 8:00am | Registration
+8:30am | Welcome remarks
+8:40am | Opening Keynote: **Juan Camilo Cárdenas** (Universidad de los Andes) 
+10:00am | Parallel Sesions A
+11:00am | Coffee break
+
 
 You can use the [editor on GitHub](https://github.com/rebelbogota/rebelbogota.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
