@@ -1,8 +1,8 @@
-## Welcome
+# Welcome
 
-# You can check the program of the 2018 ESA North American Conference 
+## You can check the program of the 2018 ESA North American Conference 
 
-Program Overview
+### Program Overview
 
 Time | Event
 -----|------
