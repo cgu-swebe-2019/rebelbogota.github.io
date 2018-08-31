@@ -6,12 +6,14 @@
 
 
 **Thursday, October 18th** 
+
 Time | Event
 -----|------
 8:45am-6:00pm | Pre-Conference Workshop: Choice Process Data
 6:00pm | Welcome Reception
 
 **Friday, October 19th** 
+
 Time | Event
 -----|------
 8:00am | Registration
@@ -26,6 +28,19 @@ Time | Event
 3:50pm | Parallel Sesions D
 5:10pm | End of Academic Activities - Day 1
 
+**Saturday, October 20th** 
+
+Time | Event
+-----|------
+9:30am | Parallel Sesions E
+10:50am | Coffee Break
+11:10am | Parallel Sesions F
+12:10pm | Lunch Break
+1:40pm | Parallel Sesions G
+3:00pm | Coffee Break
+3:20pm | Closing Keynote: **Marie Claire Villeval** (CNRS, GATE, University of Lyon) 
+4:30pm | End of Academic Activities - Day 2
+6:00pm | Conference Dinner
 
 
 You can use the [editor on GitHub](https://github.com/rebelbogota/rebelbogota.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
