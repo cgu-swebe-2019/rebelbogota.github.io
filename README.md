@@ -6,12 +6,11 @@
 
 Time | Event
 -----|------
-Thursday, October 18th
+**Thursday, October 18th**
 8:45am-6:00pm | Pre-Conference Workshop: Choice Process Data
 6:00pm | Welcome Reception
-
-Friday, October 19th
-hol | a
+**Friday, October 19th**
+8:00am | Registration
 
 You can use the [editor on GitHub](https://github.com/rebelbogota/rebelbogota.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
