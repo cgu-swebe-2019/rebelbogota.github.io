@@ -1,6 +1,7 @@
 # Parallel Sessions A
 ## Friday - 10:20 am - 11:20am
 [Back to Sessions Overview](README.md)
+
 ### **A-1. Strategic Giving**
 
 Presenter     | Talk Title
