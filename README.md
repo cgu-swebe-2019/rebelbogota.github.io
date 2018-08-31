@@ -21,7 +21,7 @@ Time | Event
 8:40am | Opening Keynote: **Juan Camilo Cárdenas** (Universidad de los Andes) 
 10:00am | [Parallel Sesions A](SessionA.md)
 11:00am | Coffee break
-11:20am | Parallel Sesions B
+11:20am | [Parallel Sesions B](SessionB.md)
 12:40pm | Lunch Break
 2:10pm | Parallel Sesions C
 3:30pm | Coffee Break
