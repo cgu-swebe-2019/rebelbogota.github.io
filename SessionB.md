@@ -1,6 +1,7 @@
 # Parallel Sessions B
 ## Friday - 11:40 am - 12:40pm
 [Back to Sessions Overview](README.md)
+
 ### **B-1. Charitable Giving**
 
 Presenter     | Talk Title
