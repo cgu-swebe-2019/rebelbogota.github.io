@@ -1,20 +1,27 @@
 # Welcome
 
-## You can check the program of the 2018 ESA North American Conference 
+## 2018 ESA North American Conference - Program
 
 ### Program Overview
 
 Time | Event
 -----|------
-**Thursday, October 18th**
+**Thursday, October 18th** |
 8:45am-6:00pm | Pre-Conference Workshop: Choice Process Data
 6:00pm | Welcome Reception
-**Friday, October 19th**
+**Friday, October 19th** |
 8:00am | Registration
 8:30am | Welcome remarks
 8:40am | Opening Keynote: **Juan Camilo Cárdenas** (Universidad de los Andes) 
 10:00am | Parallel Sesions A
 11:00am | Coffee break
+11:20am | Parallel Sesions B
+12:40pm | Lunch Break
+2:10pm | Parallel Sesions C
+3:30pm | Coffee Break
+3:50pm | Parallel Sesions D
+5:10pm | End of Academic Activities - Day 1
+
 
 
 You can use the [editor on GitHub](https://github.com/rebelbogota/rebelbogota.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
