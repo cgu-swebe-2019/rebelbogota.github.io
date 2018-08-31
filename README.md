@@ -13,7 +13,7 @@ Time | Event
 8:00am | Registration
 8:30am | Welcome remarks
 8:40am | Opening Keynote: **Juan Camilo Cárdenas** (Universidad de los Andes) 
-10:00am | Parallel Sesions A
+10:00am | [Parallel Sesions A](rebelbogota.github.io/SessionA.md)
 11:00am | Coffee break
 11:20am | Parallel Sesions B
 12:40pm | Lunch Break
