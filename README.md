@@ -4,16 +4,20 @@
 
 ### Program Overview
 
+
+**Thursday, October 18th** 
 Time | Event
 -----|------
-**Thursday, October 18th** |
 8:45am-6:00pm | Pre-Conference Workshop: Choice Process Data
 6:00pm | Welcome Reception
-**Friday, October 19th** |
+
+**Friday, October 19th** 
+Time | Event
+-----|------
 8:00am | Registration
 8:30am | Welcome remarks
 8:40am | Opening Keynote: **Juan Camilo Cárdenas** (Universidad de los Andes) 
-10:00am | [Parallel Sesions A](rebelbogota.github.io/SessionA.md)
+10:00am | [Parallel Sesions A](SessionA.md)
 11:00am | Coffee break
 11:20am | Parallel Sesions B
 12:40pm | Lunch Break
