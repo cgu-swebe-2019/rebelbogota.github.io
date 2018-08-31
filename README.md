@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome
 
-## Hola REBELS
+# You can check the program of the 2018 ESA North American Conference 
+
+Program Overview
+
+Time | Event
+-----|------
+8:45am-6:00pm | Pre-Conference Workshop: Choice Process Data
+6:00pm | Welcome Reception
 
 You can use the [editor on GitHub](https://github.com/rebelbogota/rebelbogota.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
