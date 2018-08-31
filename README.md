@@ -23,20 +23,20 @@ Time | Event
 11:00am | Coffee break
 11:20am | [Parallel Sesions B](SessionB.md)
 12:40pm | Lunch Break
-2:10pm | Parallel Sesions C
+2:10pm | [Parallel Sesions C](SessionC.md)
 3:30pm | Coffee Break
-3:50pm | Parallel Sesions D
+3:50pm | [Parallel Sesions D](SessionD.md)
 5:10pm | End of Academic Activities - Day 1
 
 **Saturday, October 20th** 
 
 Time | Event
 -----|------
-9:30am | Parallel Sesions E
+9:30am | [Parallel Sesions E](SessionE.md)
 10:50am | Coffee Break
-11:10am | Parallel Sesions F
+11:10am | [Parallel Sesions F](SessionF.md)
 12:10pm | Lunch Break
-1:40pm | Parallel Sesions G
+1:40pm | [Parallel Sesions G](SessionG.md)
 3:00pm | Coffee Break
 3:20pm | Closing Keynote: **Marie Claire Villeval** (CNRS, GATE, University of Lyon) 
 4:30pm | End of Academic Activities - Day 2
