@@ -1,7 +1,6 @@
 # Welcome
 
 ## 2018 ESA North American Conference
-[Official Conference Site](http://www.urosario.edu.co/2018ESA/inicio/)
 <a href="http://www.urosario.edu.co/2018ESA/inicio/" target="_blank">Official Conference Site</a>
 ## Preliminary Program
 
@@ -49,4 +48,4 @@ Time | Event
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Write us to rebel@urosario.edu.co
