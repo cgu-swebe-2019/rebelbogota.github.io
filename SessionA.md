@@ -34,8 +34,6 @@ Binglin Gong | Comparing Three Hybrid Auction-Lottery Mechanisms “Theory and E
 Philippos Louis | The Favored but Flawed Simultaneous Multiple-Round Auction
 Cary Deck | Fast Auctions
 
-<p><font color="red">This is some text!</font></p>
-
 ### **A-5. Anti-Social Behavior**
 
 Presenter     | Talk Title
