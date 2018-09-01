@@ -75,3 +75,5 @@ Stefano Balietti | Adaptive Design of Experiments for Maximizing Information Gai
 Po-Hsuan Lin | The Generality of Economic Principles of Bargaining and Trade: Evidence from 2,164 Classroom Experiments
 Alex Horenstein | Tree Construction and Backward Induction: A Mobile Experiment
 David Freeman | Why Choice Lists Increase Risk Taking
+
+[Back to Sessions Overview](README.md)
