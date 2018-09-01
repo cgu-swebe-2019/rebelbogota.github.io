@@ -5,6 +5,7 @@
 ## Preliminary Program
 
 ### Program Overview
+You can click on "Parallel Sessions" to get detailed information of sessions and speakers.
 
 **Thursday, October 18th** 
 
