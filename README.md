@@ -4,6 +4,7 @@
 ## Antigua, Guatemala
 
 This is a light webpage that will allow you to rapidly check the program (and its modifications).
+
 <a href="http://www.urosario.edu.co/2018ESA/inicio/" target="_blank"> Click here to go to the official Conference Site</a>
 
 ## Preliminary Program
