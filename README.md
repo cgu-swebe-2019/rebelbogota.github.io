@@ -2,6 +2,7 @@
 
 ## 2018 ESA North American Conference
 [Official Conference Site](http://www.urosario.edu.co/2018ESA/inicio/)
+<a href="http://www.urosario.edu.co/2018ESA/inicio/" target="_blank">Official Conference Site</a>
 ## Preliminary Program
 
 ### Program Overview
