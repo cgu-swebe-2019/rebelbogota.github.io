@@ -1,9 +1,8 @@
-# Welcome
+# 2018 ESA North American Conference in Antigua, Guatemala
 
-## 2018 ESA North American Conference 
-## Antigua, Guatemala
+## Welcome
 
-This is a light webpage that will allow you to rapidly check the program (and its modifications).
+This webpage will allow you to rapidly navigate through the Conference program.
 
 <a href="http://www.urosario.edu.co/2018ESA/inicio/" target="_blank"> Click here to go to the official Conference Site</a>
 
