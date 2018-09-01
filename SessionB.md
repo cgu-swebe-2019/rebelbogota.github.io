@@ -47,7 +47,7 @@ Trevor Finch | Information Aggregation in Jury Decision Making
 Kirby Nielsen | Preferences for the Resolution of Uncertainty and the Timing of Information
 Thomas Meissner | Measuring Preference Over the Temporal Resolution of Consumption Uncertainty
 
-### **B-6. Markets and Industrial ORganization**
+### **B-6. Markets and Industrial Organization**
 
 Presenter     | Talk Title
 --------------|------------
