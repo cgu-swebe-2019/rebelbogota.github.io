@@ -56,9 +56,9 @@ Colin Corbett |	Risk Preferences and Endowments in Different Domains
 
 Presenter     | Talk Title
 --------------|------------|
-Tim Lohse	| Gender Differences in Face-to-Face Deceptive Behavior
+Tim Lohse  | Gender Differences in Face-to-Face Deceptive Behavior
 Siri Isaksson |	It Takes Two: Gender Differences in Group Work
-Kristine Koutout	| Second-Order Beliefs
+Kristine Koutout | Second-Order Beliefs
 Peilu Zhang	| Social Norms and Competitiveness: My Willingness to Compete Depends on Who I am (Supposed to Be)
 	
 
@@ -70,3 +70,5 @@ O'Sub Kwon |	Forcing to Persuade with the Unanimity Rule
 Jonathan Woon	| Incomplete Counterfactual Cognition and the Strategy Method in Cheap Talk Games
 Huan Xie |	Persuasion Bias in Science: An Experiment
 Ann-kathrin Koessler |	Setting New Behavioural Standards: Sustainability Pledges and How Conformity Influences their Outreach
+
+[Back to Sessions Overview](README.md)
