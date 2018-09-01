@@ -47,10 +47,9 @@ Jingjing Zhang | What Can We Expect From "Cheap Talk"?
 
 Presenter     | Talk Title
 --------------|------------
-Cary Deck | Fast Auctions
 Jim Ingebretsen Carlson | Shill Bidding and Information in Sequential Auctions: A Laboratory Study
 Bryan McCannon | Shill Bidding and Trust
-
+Binglin Gong | The Sequence Effect on Hybrid Auction-Lottery Mechanisms
 
 ### **D-7. Finance**
 
