@@ -12,6 +12,10 @@ organized by a <a href="http://www.urosario.edu.co/rebel" target="_blank"> South
 ### Program Overview
 You can click on "Parallel Sessions" to get detailed information of sessions and speakers.
 
+As you may note, parallel sessions with three presentations will run for 60 minutes and parallel sessions with four presentations will run for 80 minutes. 
+
+Each presenter will have 20 minutes, including questions.
+
 **Thursday, October 18th** 
 
 Time | Event
