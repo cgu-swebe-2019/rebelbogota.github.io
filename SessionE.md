@@ -66,7 +66,7 @@ Peilu Zhang	| Social Norms and Competitiveness: My Willingness to Compete Depend
 
 Presenter     | Talk Title
 --------------|------------|
-O'Sub Kwon	Forcing to Persuade with the Unanimity Rule
-Jonathan Woon	Incomplete Counterfactual Cognition and the Strategy Method in Cheap Talk Games
-Huan Xie	Persuasion Bias in Science: An Experiment
-Ann-kathrin Koessler	Setting New Behavioural Standards: Sustainability Pledges and How Conformity Influences their Outreach
+O'Sub Kwon |	Forcing to Persuade with the Unanimity Rule
+Jonathan Woon	| Incomplete Counterfactual Cognition and the Strategy Method in Cheap Talk Games
+Huan Xie |	Persuasion Bias in Science: An Experiment
+Ann-kathrin Koessler |	Setting New Behavioural Standards: Sustainability Pledges and How Conformity Influences their Outreach
