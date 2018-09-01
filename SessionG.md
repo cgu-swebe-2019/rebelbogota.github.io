@@ -11,3 +11,10 @@ Flora Li | Threats
 Eric Schnitter |	Trust in Humans, Robots, and Cyborgs
 Charles Noussair | Emotional State and Risk Aversion
 
+
+
+
+
+
+
+[Back to Sessions Overview](README.md)
