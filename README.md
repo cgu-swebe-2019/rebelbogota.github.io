@@ -1,4 +1,7 @@
-# Welcome to Antigua!
+# Welcome!
+
+What is globalization?
+[A North American Experimental Economics Meeting](https://www.economicscience.org/page/conference/2018-north-american-esa-conference-antigua-guatemala) held in [Central America](https://www.theguardian.com/travel/2018/mar/30/antigua-guatemala-city-guide-what-to-see-where-to-eat-drink-stay) organized by a [South American Lab](http://www.urosario.edu.co/rebel).
 
 <a href="http://www.urosario.edu.co/2018ESA/inicio/" target="_blank"> Click here to go to the official Conference Site</a>
 
