@@ -58,3 +58,5 @@ Presenter     | Talk Title
 Praveen Kujal | On Booms That Never Bust: Ambiguity in Experimental Asset Markets with Bubbles
 Kristian Lopez Vargas | Experiments in High-Frequency Trading: Testing the Frequent Batch Auction
 Ryoko Wada | Portfolio Selection with Ambiguous Securities Independent from Risky Assets: A Portfolio Experiment outside the Ellsberg Paradox Context  
+
+[Back to Sessions Overview](README.md)
