@@ -52,7 +52,7 @@ O'Sub Kwon |	Forcing to Persuade with the Unanimity Rule
 Jorge Gallego |	Runoff Elections in the Laboratory
 
 
-### **C-6. Health¨**
+### **C-6. Health**
 
 Presenter     | Talk Title
 --------------|------------
@@ -62,7 +62,7 @@ Tabare Capitan |	Nudging Reloaded: Supplementing a Nudge with Other Nudges
 Ellen Green |	The Impact of a Merit-Based Incentive Payment System on Quality of Healthcare:  A Framed Field Experiment 
 
 
-### **C-7. Punishment¨**
+### **C-7. Punishment**
 
 Presenter     | Talk Title
 --------------|------------
@@ -79,3 +79,5 @@ Alexander Brown |	Can Individuals Recognize Selected Information When They Satis
 Ian Chadd |	Random Network Choice: Theory and Experiment
 Sheen S Levine |	Should I Stay or Should I Go: The Cognition of Search Under Ambiguity
 Jim Ingebretsen Carlson |	Visual Attraction: Modes of Presentation and Focusing in Economic Choice
+
+[Back to Sessions Overview](README.md)
