@@ -2,7 +2,7 @@
 ## Saturday - 1:40pm - 3:00pm
 [Back to Sessions Overview](README.md)
 
-### **G-1. Emotions**
+**G-1. Emotions**
 
 Presenter     | Talk Title
 --------------|------------
@@ -11,7 +11,7 @@ Flora Li | Threats
 Eric Schnitter |	Trust in Humans, Robots, and Cyborgs
 Charles Noussair | Emotional State and Risk Aversion
 
-### **G-2. Field and Natural Experiments **
+**G-2. Field and Natural Experiments **
 
 Presenter     | Talk Title
 --------------|------------
@@ -20,7 +20,7 @@ Laura Razzolini  | Nudging Museums Attendance: A Field Experiment with High Scho
 Kevin McLaughlin |	The Power of Audio Advertising: A Field Experiment on Pandora Internet Radio
 Grace Lee Hooi Yean | Does Peer Information Crowd Out Performance? Evidence from a Field Experiment
 
-### **G-3. Gender and Bargaining**
+**G-3. Gender and Bargaining**
 
 Presenter     | Talk Title
 --------------|------------
@@ -29,7 +29,7 @@ Hung-Ni Chen   | Gender Difference and Risk Preference: An Experiment on Dynamic
 Shuwen Li  | Stochastic Bargaining Over Gains and Losses: Evidence from the Lab
 Lina Lozano  | The Impact of the Menstrual Cycle on Bargaining Behavior
 
-### **G-4. Game Theory II**
+**G-4. Game Theory II**
 
 Presenter     | Talk Title
 --------------|------------
@@ -38,7 +38,7 @@ Despoina Alempaki | Preference Reversals under Strategic Uncertainty
 Matthew McMahon  | Virtue Signaling: Using Risk Preferences to Signal Trustworthiness
 Romain  Gauriot  | Nash at Wimbledon: Evidence from Half a Million Serves
 
-### **G-5. Beliefs and Overconfidence**
+**G-5. Beliefs and Overconfidence**
 
 Presenter     | Talk Title
 --------------|------------
@@ -47,7 +47,7 @@ Catalina Franco  | How do Beliefs and Feedback Affect Decision Making Among Stud
 Daniel Gomez  | Overconfidence and Contracts: An Experiment
 Pol Campos-Mercade   | The Effects of Incentivized Goals on Academic Achievement
 
-### **G-6. Social Behavior and Compliance**
+**G-6. Social Behavior and Compliance**
 
 Presenter     | Talk Title
 --------------|------------
@@ -55,7 +55,7 @@ Alexander Gotthard Real | A Veil on Selfishness vs a Veil on Fairness
 Jana Freundt  | Manipulated Votes and Rule Compliance: Evidence from a Field Experiment
 Milos Fisar  | Tax Compliance with Endogenous Audit Selection 
 
-### **G-7. Coordination**
+**G-7. Coordination**
 
 Presenter     | Talk Title
 --------------|------------
