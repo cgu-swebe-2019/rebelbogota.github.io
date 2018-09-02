@@ -11,7 +11,7 @@ Flora Li | Threats
 Eric Schnitter |	Trust in Humans, Robots, and Cyborgs
 Charles Noussair | Emotional State and Risk Aversion
 
-**G-2. Field and Natural Experiments **
+**G-2. Field and Natural Experiments**
 
 Presenter     | Talk Title
 --------------|------------
