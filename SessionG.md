@@ -52,7 +52,7 @@ Pol Campos-Mercade   | The Effects of Incentivized Goals on Academic Achievement
 Presenter     | Talk Title
 --------------|------------
 Alexander Gotthard Real | A Veil on Selfishness vs a Veil on Fairness
-Jana Freundt  | Manipulated Votes and Rule Compliancevidence from a Field Experiment
+Jana Freundt  | Manipulated Votes and Rule Compliance: Evidence from a Field Experiment
 Milos Fisar  | Tax Compliance with Endogenous Audit Selection 
 
 ### **G-7. Coordination**
@@ -63,10 +63,5 @@ Carles Solá   | Coordination in Volatile Environments with Time Constraints and
 Joaquin Gomez-Minambres   | Non-binding Goals in Teams: A Real Effort Coordination Experiment
 Nejat Anbarci   |Payoff Inequity Reduces the Effectiveness of Correlated--Equilibrium Recommendations
 Aljaz Ule 	  | The Economic Foundation of Meaning
-
-
-
-
-
 
 [Back to Sessions Overview](README.md)
