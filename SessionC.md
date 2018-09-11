@@ -11,16 +11,14 @@ David Wozniak | Ethnic Discrimination in the Lab: Evidence of Statistical and Ta
 Husnain Fateh Ahmad |	Political Context and Ethnic Bias: Evidence from a Dictator Game
 Mariana Blanco | To Segregate or to Discriminate - That is the Question: Experiment on Identity and Social Preferences
 
-
-### **C-2. Groups**	
+### **C-2. Choice Process I**
 
 Presenter     | Talk Title
 --------------|------------
-Moritz Janas |	Delegation to a Group
-Pol Campos-Mercade |	Helping Behavior and Group Size
-Krista Saral |	The Value of Consensus: An Experimental Analysis of Costly Deliberation
-David Cooper |	Why Join a Team?
-
+Irene Maria Buso | Choice Process Under Uncertainty: An Eye-Tracking Analysis
+Maroš Servátka | Anchoring in Task Duration Estimation
+Aleksandr Alekseev | Success Decomposition: Using Response Times to Measure Ability and Motivation
+Ian Krajbich | The Neural Computation and Comparison of Value in Simple Choice
 
 ### **C-3. Game Theory**
 
