@@ -9,6 +9,8 @@ organized by a <a href="http://www.urosario.edu.co/rebel" target="_blank"> South
 
 ## Preliminary Program
 
+*Last update:* September 11th, 2018
+
 ### Program Overview
 You can click on "Parallel Sessions" to get detailed information of sessions and speakers.
 
