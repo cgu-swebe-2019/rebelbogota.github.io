@@ -6,7 +6,6 @@
 
 Presenter     | Talk Title
 --------------|------------
-Haley Harwell | Authority Asks: Does it Matter Who Ask for your Money?
 Rick Wilson  | Charity Begins at Home: A Lab-in-the-Field Experiment on Dictatorial Giving
 Neslihan Uler | Collaborative Versus Independent Fundraising
 Monica Capra  | Volunteer Now or Later: The Effects of Effort Time Allocation on Donations
@@ -44,7 +43,7 @@ Presenter     | Talk Title
 --------------|------------
 Andrei Gomberg | Read a Book, and We'll Talk Later'': Rational Ignorance and Timing of Information Provision
 Trevor Finch | Information Aggregation in Jury Decision Making
-Kirby Nielsen | Preferences for the Resolution of Uncertainty and the Timing of Information
+Michal Krawczyk | The representativeness heuristic and the choice of lottery tickets: A field experiment
 Thomas Meissner | Measuring Preference Over the Temporal Resolution of Consumption Uncertainty
 
 ### **B-6. Markets and Industrial Organization**
@@ -52,7 +51,7 @@ Thomas Meissner | Measuring Preference Over the Temporal Resolution of Consumpti
 Presenter     | Talk Title
 --------------|------------
 Radovan Vadovic | Catering to Markets through Strategic Investment: Theory and Experiment
-Emilia Tjernstrom | Nonlinear Pricing Complexity and Consumer Behavior
+Josh Deutschmann | Nonlinear Pricing Complexity and Consumer Behavior
 Dustin Tracy | The Impact of Vertical Integration in Complex Markets
 Jordan Adamson | The Market as a Geographic Coordinate for Exchange and Smithian Agglomeration
 
