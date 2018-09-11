@@ -18,7 +18,7 @@ Presenter     | Talk Title
 Brit Grosskopf | More Meat for Boys: Statistical Discrimination in British Carvery Restaurants
 Laura Razzolini  | Nudging Museums Attendance: A Field Experiment with High School Teens
 Kevin McLaughlin |	The Power of Audio Advertising: A Field Experiment on Pandora Internet Radio
-Grace Lee Hooi Yean | Does Peer Information Crowd Out Performance? Evidence from a Field Experiment
+Duru Cojoc | Grade Inflation without Compression: An Experiment in Nominal (Grade) Illusion
 
 **G-3. Gender and Bargaining**
 
