@@ -2,15 +2,14 @@
 ## Saturday - 9:30am - 10:50am
 [Back to Sessions Overview](README.md)
 
-### **E-1. Choice Process - Cognition**
+### **E-1. Groups**	
 
 Presenter     | Talk Title
 --------------|------------
-Michelle Segovia | The Effect of Food Anticipation on Cognitive Ability in the Presence of Hunger
-Roman Sheremeta | Testing the Dual Process Model: The Effects of Different Cognitive Manipulations on Economic Decision Making
-Ian Krajbich |	Modeling Biases in Decision Making
-
-
+Sebastian Fehrler | Delegation to a Group
+Pol Campos-Mercade |	Helping Behavior and Group Size
+Krista Saral |	The Value of Consensus: An Experimental Analysis of Costly Deliberation
+David Cooper |	Why Join a Team?
 
 ### **E-2. Other Regarding Preferences**	
 
@@ -27,7 +26,7 @@ Linda Thunstrom |	Thoughts and Prayers - Do they Crowd out Donations?
 Presenter     | Talk Title
 --------------|------------|
 Francesco Bogliacino	| Criminal-Related Exposure to Violence and Social Preferences: Experimental Evidence from Bogotá
-Natalia Candelo Londono	| Does Ccnflict Exposure Increase In-Group Bias? Evidence From Experiments in the Philippines
+Natalia Candelo Londoño	| Does Ccnflict Exposure Increase In-Group Bias? Evidence From Experiments in the Philippines
 Arturo Harker	| Semillas de Apego: Experimental Evaluation of a Groupbased Program to Foster Maternal Mental Health and Early Childhood Development Among Conflict Exposed Communities
 Juan Vargas	| The Twists and Turns in the Road to Justice in Colombia
 
@@ -46,7 +45,7 @@ Barbora Baisa	| The Role of Meaning in Labor Economics
 
 Presenter     | Talk Title
 --------------|------------|
-Yupeng Li |	"I" like loss: the effect of first-person pronoun use on loss aversion
+Yupeng Li |	Pronoun Use and Loss Aversion: Experimental Evidence
 Rick Wilson |	BRET, Risk Instruments and Populations: Gender as the Gold Standard?
 Remy Levin |	Endogenous Preference Formation in a Developing Economy
 Colin Corbett |	Risk Preferences and Endowments in Different Domains
@@ -56,7 +55,6 @@ Colin Corbett |	Risk Preferences and Endowments in Different Domains
 
 Presenter     | Talk Title
 --------------|------------|
-Tim Lohse  | Gender Differences in Face-to-Face Deceptive Behavior
 Siri Isaksson |	It Takes Two: Gender Differences in Group Work
 Kristine Koutout | Second-Order Beliefs
 Peilu Zhang	| Social Norms and Competitiveness: My Willingness to Compete Depends on Who I am (Supposed to Be)
@@ -66,9 +64,8 @@ Peilu Zhang	| Social Norms and Competitiveness: My Willingness to Compete Depend
 
 Presenter     | Talk Title
 --------------|------------|
-O'Sub Kwon |	Forcing to Persuade with the Unanimity Rule
 Jonathan Woon	| Incomplete Counterfactual Cognition and the Strategy Method in Cheap Talk Games
 Huan Xie |	Persuasion Bias in Science: An Experiment
-Ann-kathrin Koessler |	Setting New Behavioural Standards: Sustainability Pledges and How Conformity Influences their Outreach
+Ann-Kathrin Koessler |	Setting New Behavioural Standards: Sustainability Pledges and How Conformity Influences their Outreach
 
 [Back to Sessions Overview](README.md)
