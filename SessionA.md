@@ -40,7 +40,8 @@ Presenter     | Talk Title
 --------------|------------
 Jana Cahlikova | Antisocial Behavior in Groups
 Aljaz Ule | Dilution Illusion
-Daniel Lee | Towards an Understanding of the Demand for Low Probability Insurance
+David Dickinson | Using Ethical Dilemmas to Predict Antisocial Choices with Real Payoff Consequences: An
+Experimental Study
 
 ### **A-6. Trust**
 
@@ -50,12 +51,13 @@ Katarzyna Samson | Effects of Socioeconomic Status on Trust
 Hernan Bejarano | How Do Endowment Shocks Affect Trust and Trustworthiness?
 Daniel Lee | Towards an Understanding of the Demand for Low Probability Insurance
 
-### **A-7. Choice Process I**
+### **A-7. Choice Process - Cognition**
 
 Presenter     | Talk Title
 --------------|------------
-Irene Maria Buso | Choice Process Under Uncertainty: An Eye-Tracking Analysis
-Aleksandr Alekseev | Success Decomposition: Using Response Times to Measure Ability and Motivation
-Ian Krajbich | The Neural Computation and Comparison of Value in Simple Choice
+Michelle Segovia | The Effect of Food Anticipation on Cognitive Ability in the Presence of Hunger
+Roman Sheremeta | Testing the Dual Process Model: The Effects of Different Cognitive Manipulations on Economic Decision Making
+Ian Krajbich |	Modeling Biases in Decision Making
+
 
 [Back to Sessions Overview](README.md)
