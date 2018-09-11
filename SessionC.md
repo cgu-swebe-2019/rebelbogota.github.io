@@ -75,7 +75,7 @@ Presenter     | Talk Title
 --------------|------------
 Alexander Brown |	Can Individuals Recognize Selected Information When They Satisfice? An Experimental Investigation
 Ian Chadd |	Random Network Choice: Theory and Experiment
-Sheen S Levine |	Should I Stay or Should I Go: The Cognition of Search Under Ambiguity
+Sheen S. Levine |	Should I Stay or Should I Go: The Cognition of Search Under Ambiguity
 Jim Ingebretsen Carlson |	Visual Attraction: Modes of Presentation and Focusing in Economic Choice
 
 [Back to Sessions Overview](README.md)
