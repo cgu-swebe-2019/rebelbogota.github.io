@@ -39,7 +39,7 @@ Ray Sin | Why Do People Buy Overpriced ETF Index Funds, and Can Behavioral Nudge
 Presenter     | Talk Title
 --------------|------------
 Brock Stoddard | Common-Value Public Goods and Informational Social Dilemmas
-Ann-kathrin Koessler | Structuring the Talk - Elements of Effective Communication
+Ann-Kathrin Koessler | Structuring the Talk - Elements of Effective Communication
 Jingjing Zhang | What Can We Expect From "Cheap Talk"?
 
 
@@ -51,12 +51,6 @@ Jim Ingebretsen Carlson | Shill Bidding and Information in Sequential Auctions: 
 Bryan McCannon | Shill Bidding and Trust
 Binglin Gong | The Sequence Effect on Hybrid Auction-Lottery Mechanisms
 
-### **D-7. Finance**
 
-Presenter     | Talk Title
---------------|------------
-Praveen Kujal | On Booms That Never Bust: Ambiguity in Experimental Asset Markets with Bubbles
-Kristian Lopez Vargas | Experiments in High-Frequency Trading: Testing the Frequent Batch Auction
-Ryoko Wada | Portfolio Selection with Ambiguous Securities Independent from Risky Assets: A Portfolio Experiment outside the Ellsberg Paradox Context  
 
 [Back to Sessions Overview](README.md)
