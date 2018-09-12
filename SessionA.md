@@ -40,8 +40,7 @@ Presenter     | Talk Title
 --------------|------------
 Jana Cahlikova | Antisocial Behavior in Groups
 Aljaz Ule | Dilution Illusion
-David Dickinson | Using Ethical Dilemmas to Predict Antisocial Choices with Real Payoff Consequences: An
-Experimental Study
+David Dickinson | Using Ethical Dilemmas to Predict Antisocial Choices with Real Payoff Consequences
 
 ### **A-6. Trust**
 
