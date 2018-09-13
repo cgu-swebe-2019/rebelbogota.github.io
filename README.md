@@ -22,7 +22,7 @@ Each presenter will have 20 minutes, including questions.
 
 Time | Event
 -----|------
-8:45am-6:00pm | Pre-Conference Workshop: Choice Process Data
+8:45am-6:00pm | Pre-Conference Workshop: Choice Process Data <a href="http://www.urosario.edu.co/2018ESA/Documentos/Tentative_workshop_schedule_v6.pdf" target="_blank"> (program) </a> 
 6:00pm | Welcome Reception
 
 **Friday, October 19th** 
@@ -31,7 +31,9 @@ Time | Event
 -----|------
 8:00am | Registration
 8:30am | Welcome remarks
-8:40am | Opening Keynote: **[Juan Camilo Cárdenas](https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=9&Itemid=474)** (Universidad de los Andes) 
+8:40am | Opening Keynote: <a href="https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=9&Itemid=474" target="_blank"> <b>Juan Camilo Cárdenas</b> </a> (Universidad de los Andes)
+
+**[Juan Camilo Cárdenas](https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=9&Itemid=474)** (Universidad de los Andes) 
 10:00am | [Parallel Sesions A](SessionA.md)
 11:00am | Coffee break
 11:20am | [Parallel Sesions B](SessionB.md)
