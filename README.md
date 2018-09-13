@@ -33,7 +33,6 @@ Time | Event
 8:30am | Welcome remarks
 8:40am | Opening Keynote: <a href="https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=9&Itemid=474" target="_blank"> <b>Juan Camilo Cárdenas</b> </a> (Universidad de los Andes)
 
-**[Juan Camilo Cárdenas](https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=9&Itemid=474)** (Universidad de los Andes) 
 10:00am | [Parallel Sesions A](SessionA.md)
 11:00am | Coffee break
 11:20am | [Parallel Sesions B](SessionB.md)
@@ -53,7 +52,7 @@ Time | Event
 12:10pm | Lunch Break
 1:40pm | [Parallel Sesions G](SessionG.md)
 3:00pm | Coffee Break
-3:20pm | Closing Keynote: **[Marie Claire Villeval](https://www.gate.cnrs.fr/spip.php?article197&lang=fr)** (CNRS, GATE, University of Lyon) 
+3:20pm | Closing Keynote: <a href="https://www.gate.cnrs.fr/spip.php?article197&lang=fr" target="_blank"> <b>Marie Claire Villeval</b> </a> (CNRS, GATE, University of Lyon) 
 4:30pm | End of Academic Activities - Day 2
 6:00pm | Conference Dinner
 
