@@ -34,7 +34,7 @@ Radovan Vadovic | Catering to Markets through Strategic Investment: Theory and E
 Josh Deutschmann | Nonlinear Pricing Complexity and Consumer Behavior
 Dustin Tracy | The Impact of Vertical Integration in Complex Markets
 
-**C-5. Coordination**
+### **C-5. Coordination**
 
 Presenter     | Talk Title
 --------------|------------
