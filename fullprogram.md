@@ -14,6 +14,7 @@ Ian Krajbich |	Modeling Biases in Decision Making
 Roman Sheremeta | Testing the Dual Process Model: The Effects of Different Cognitive Manipulations on Economic Decision Making
 
 ### **A-2. Trust and Trustworthiness**
+
 Presenter     | Talk Title
 --------------|------------
 Hernan Bejarano | How Do Endowment Shocks Affect Trust and Trustworthiness?
