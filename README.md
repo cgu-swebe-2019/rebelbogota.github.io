@@ -7,13 +7,16 @@ organized by a <a href="http://www.urosario.edu.co/rebel" target="_blank"> South
 
 <a href="http://www.urosario.edu.co/2018ESA/inicio/" target="_blank"> Click here to go to the official Conference Site</a>
 
-## Preliminary Program
+## Conference Program
 
-*Last update:* September 11th, 2018
+*Last update:* October 9th, 2018
 
 ### Program Overview
 You can click on "Parallel Sessions" to get detailed information of sessions and speakers.
+
 You can also check the complete program [here](fullprogram.md).
+
+You can download the program <a href="http://www.urosario.edu.co/2018ESA/Documentos/Tentative_workshop_schedule_v6.pdf" target="_blank"> here (without abstracts) </a> or <a href="http://www.urosario.edu.co/2018ESA/Documentos/Tentative_workshop_schedule_v6.pdf" target="_blank"> here (with abstracts) </a>.
 
 As you may note, parallel sessions with three presentations will run for 60 minutes and parallel sessions with four presentations will run for 80 minutes. 
 
