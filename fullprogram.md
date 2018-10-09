@@ -3,9 +3,9 @@
 [Back to Sessions Overview](README.md)
 
 # Parallel Sessions A
-## Friday - 10:20 am - 11:20am
+## Friday - 10:00 am - 11:00am
 
-### **A-1. Choice Process - Cognition**
+### **A-1. Choice Process - Cognition** - _Atrio 2_
 
 Presenter     | Talk Title
 --------------|------------
@@ -13,7 +13,7 @@ Michelle Segovia | The Effect of Food Anticipation on Cognitive Ability in the P
 Ian Krajbich |	Modeling Biases in Decision Making
 Roman Sheremeta | Testing the Dual Process Model: The Effects of Different Cognitive Manipulations on Economic Decision Making
 
-### **A-2. Trust and Trustworthiness**
+### **A-2. Trust and Trustworthiness** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -21,7 +21,7 @@ Hernan Bejarano | How Do Endowment Shocks Affect Trust and Trustworthiness?
 Daniel Lee      |	Towards an Understanding of the Demand for Low Probability Insurance
 Matthew McMahon |	Virtue Signaling: Using Risk Preferences to Signal Trustworthiness
 
-### **A-3. Labor: Monitoring, Identity and Motivation**
+### **A-3. Labor: Monitoring, Identity and Motivation** - _Room B_
 
 Presenter     | Talk Title
 --------------|------------|
@@ -29,7 +29,7 @@ Kuangli Xie |	How Reporting Affects Workers' Behavior?
 Priyanka Chakraborty |	Testing the Effects of Mentorship versus Sponsorship Programs in Organizations: An Experiment
 Denise Laroze	| Populism and Immigration Demand: Preferences of High-Skilled Laborers Around the World
 
-### **A-4. Information and Resolution of Uncertainty**
+### **A-4. Information and Resolution of Uncertainty** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------
@@ -37,7 +37,7 @@ Andrei Gomberg | Read a Book, and We'll Talk Later'': Rational Ignorance and Tim
 Michal Krawczyk | The representativeness heuristic and the choice of lottery tickets: A field experiment
 Thomas Meissner | Measuring Preference Over the Temporal Resolution of Consumption Uncertainty
 
-### **A-5. Game Theory I**
+### **A-5. Game Theory I** - _Room E_
 
 Presenter     | Talk Title
 --------------|------------
@@ -50,9 +50,9 @@ James Bland |	Two Extensions to the Strategy Frequency Estimation Method
 --------------------------------------
 
 # Parallel Sessions B
-## Friday - 11:40 am - 12:40pm
+## Friday - 11:20 am - 12:40pm
 
-### **B-1. Methodology and Design of Experiments**
+### **B-1. Methodology and Design of Experiments** - _Atrio 2_
 
 Presenter     | Talk Title
 --------------|------------
@@ -61,7 +61,7 @@ David Freeman | Why Choice Lists Increase Risk Taking
 Barry Sopher  | Context in Choice:  Behavioral Bias or Economic Behavior?
 Po-Hsuan Lin  | The Generality of Economic Principles of Bargaining and Trade: Evidence from 2,164 Classroom Experiments
 
-### **B-2. Identity and Other-regarding Preferences**
+### **B-2. Identity and Other-regarding Preferences** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -70,7 +70,7 @@ Antonio Alonso Arechar |	The Skin Kids Live in: The Role of Racial and Class Ste
 Timothy MacNeill | Altruistic Behavior and Ethnic Diversity: Evidence from Honduras
 Mariana Blanco | To Segregate or to Discriminate - That is the Question: Experiment on Identity and Social Preferences
 
-### **B-3. Bargaining**
+### **B-3. Bargaining** - _Room B_
 
 Presenter     | Talk Title
 --------------|------------
@@ -79,7 +79,7 @@ Kyle Hyndman |	Dissolving Partnerships Under Risk: An Experimental Investigation
 Simon Siegenthaler |	Experiments on Multidimensional Bargaining
 Shuwen Li | Stochastic Bargaining Over Gains and Losses: Evidence from the Lab
 
-### **B-4. Risk I**
+### **B-4. Risk I** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------
@@ -88,7 +88,7 @@ Paul Feldman |	Revealed Convex Preferences Over Lotteries: Model Selection of Al
 Irene Mussio |	Reconciling Health and Wealth Background Risks: An Analysis of Risk Aversion when Higher-Order Preferences are Considered
 Paul Healy |	Randomization Across Domains: Testing Theories of Probability Matching and Convex Preferences
 
-### **B-5. Voting and Committees**
+### **B-5. Voting and Committees** - _Room E_
 
 Presenter     | Talk Title
 --------------|------------
@@ -97,7 +97,7 @@ O'Sub Kwon |	Forcing to Persuade with the Unanimity Rule
 Jorge Gallego |	Runoff Elections in the Laboratory
 Sebastian Fehrler |	Committee Decision-Making under the Threat of Leaks
 
-### **B-6. Contracts**
+### **B-6. Contracts** - _Room F_
 
 Presenter     | Talk Title
 --------------|------------
@@ -105,15 +105,14 @@ Daniel Gomez 	|	Overconfidence and Contracts: An Experiment
 Timothy Flannery | The Effect of Contract Structure and Intentions on Agent Effort
 Veronica Rattini | Worker Discretion and Performance: Evidence from a Real-Effort Experiment
 Tim Cason | Social Dilemmas with Agency Risk
-
 [Back to Sessions Overview](README.md)
 
 --------------------------------------
 
 # Parallel Sessions C
-## Friday - 2:10pm - 11:20am
+## Friday - 2:10pm - 3:30pm
 
-### **C-1. Game Theory II: Cognition, Persuasion and Beliefs**
+### **C-1. Game Theory II: Cognition, Persuasion and Beliefs** - _Room E_
 
 Presenter     | Talk Title
 --------------|------------
@@ -121,7 +120,7 @@ Jonathan Woon	| Incomplete Counterfactual Cognition and the Strategy Method in C
 Huan Xie	| Persuasion Bias in Science: An Experiment
 Rene Levinsky |	Preferences, Beliefs, and Strategic Plays in Games
 
-### **C-2. Charitable Giving**
+### **C-2. Charitable Giving** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -129,7 +128,7 @@ Rick Wilson  | Charity Begins at Home: A Lab-in-the-Field Experiment on Dictator
 Neslihan Uler | Collaborative Versus Independent Fundraising
 Monica Capra  | Volunteer Now or Later: The Effects of Effort Time Allocation on Donations
 
-### **C-3. Labor: Discrimination**
+### **C-3. Labor: Discrimination** - _Room B_
 
 Presenter     | Talk Title
 --------------|------------
@@ -137,7 +136,7 @@ M. Rashid Memon | Simon Says: Valuing Women's Voice - Sexism and Mansplaining in
 Michal Durinik	| Group Identity and Post-Promotion Effort
 Luz Salas 	| Do Firms Redline Workers? A controlled Experiment in Bogotá
 
-### **C-4. Markets and Industrial Organization**
+### **C-4. Markets and Industrial Organization** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------
@@ -145,7 +144,7 @@ Radovan Vadovic | Catering to Markets through Strategic Investment: Theory and E
 Josh Deutschmann | Nonlinear Pricing Complexity and Consumer Behavior
 Dustin Tracy | The Impact of Vertical Integration in Complex Markets
 
-### **C-5. Coordination**
+### **C-5. Coordination** - _Atrio 2_
 
 Presenter     | Talk Title
 --------------|------------
@@ -158,9 +157,9 @@ Aljaz Ule     | The Economic Foundation of Meaning
 --------------------------------------
 
 # Parallel Sessions D
-## Friday - 3:50pm - 5:10pm
+## Friday - 3:50pm - 4:50pm
 
-### **D-1. Choice Process II**
+### **D-1. Choice Process II** - _Atrio 2_
 
 Presenter     | Talk Title
 --------------|------------
@@ -168,7 +167,7 @@ Alexander Brown |	Can Individuals Recognize Selected Information When They Satis
 Ian Chadd |	Random Network Choice: Theory and Experiment
 Jim Ingebretsen Carlson |	Visual Attraction: Modes of Presentation and Focusing in Economic Choice
 
-### **D-2. Other-regarding Preferences II**
+### **D-2. Other-regarding Preferences II** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -176,7 +175,7 @@ Linda Thunstrom | Thoughts and Prayers - Do they Crowd out Donations?
 Zachary Grossman | When Does Ignorance Work as an Excuse for Selfish Behavior?
 Felipe Valencia | Christ's Shadow: Non-Cognitive Skills and Prosocial Behavior Amongst the Guarani
 
-### **D-3. Goals, Grading, and Performance**
+### **D-3. Goals, Grading, and Performance** - _Room B_
 
 Presenter     | Talk Title
 --------------|------------
@@ -184,15 +183,15 @@ Joaquin Gomez-Minambres  | Non-binding Goals in Teams: A Real Effort Coordinatio
 Pol Campos-Mercade |	The Effects of Incentivized Goals on Academic Achievement
 Doru Cojoc	|	Grade Inflation without Compression: An Experiment in Nominal (Grade) Illusion
 
-### **D-4. Lying, Cheating, and Compliance**
-
+### **D-4. Lying, Cheating, and Compliance** - _Room E_
+ 
 Presenter     | Talk Title
 --------------|------------
 Georgia Michailidou | I'd Lie for You
 Alistair Wilson | Lying Aversion on the Margin and in the Limit
 Milos Fisar	|	Tax Compliance with Endogenous Audit Selection
 
-### **D-5. Voting II: Democracy and Governance**
+### **D-5. Voting II: Democracy and Governance** - _Room F_
 
 Presenter     | Talk Title
 --------------|------------
@@ -205,9 +204,9 @@ Jose Castillo |	Political Accountability and Democratic Institutions: An Experim
 --------------------------------------
 
 # Parallel Sessions E
-## Saturday - 9:30am - 10:50am
+## Saturday - 9:00am - 10:20am
 
-### **E-1. Emotions**
+### **E-1. Emotions** - _Atrio 2_
 
 Presenter     | Talk Title
 --------------|------------
@@ -216,7 +215,7 @@ Flora Li | Threats
 Eric Schnitter |	Trust in Humans, Robots, and Cyborgs
 Charles Noussair | Emotional State and Risk Aversion
 
-### **E-2. Punishment**
+### **E-2. Punishment** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -225,7 +224,7 @@ Sining Wang | Seeing is “Behaving”: Using Revealed-Strategy Approach to Unde
 Louis Putterman | Self-Governance in Noisy Social Dilemmas: Experimental Evidence on Punishment with Costly Monitoring
 Brock Stoddard | Common-Value Public Goods and Informational Social Dilemmas
 
-### **E-3. Gender**	
+### **E-3. Gender** - _Room B_	
 
 Presenter     | Talk Title
 --------------|------------|
@@ -234,7 +233,7 @@ Kristine Koutout | Second-Order Beliefs
 Peilu Zhang	| Social Norms and Competitiveness: My Willingness to Compete Depends on Who I am (Supposed to Be)
 Emma Heikensten | Simon Says: Examining Gender Differences in Advice Seeking and Influence in the Lab
 
-### **E-4. Risk II**
+### **E-4. Risk II** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------|
@@ -243,7 +242,7 @@ Rick Wilson |	BRET, Risk Instruments and Populations: Gender as the Gold Standar
 Remy Levin |	Endogenous Preference Formation in a Developing Economy
 Colin Corbett |	Risk Preferences and Endowments in Different Domains
 
-### **E-5. Auctions**
+### **E-5. Auctions** - _Room E_
 
 Presenter     | Talk Title
 --------------|------------
@@ -252,7 +251,7 @@ Bryan McCannon | Shill Bidding and Trust
 Kristian Lopez Vargas | Experiments in High-Frequency Trading: Testing the Frequent Batch Auction
 Cary Deck | Fast Auctions
 
-### **E-6. Norms and Social Behavior**
+### **E-6. Norms and Social Behavior** - _Room F_
 
 Presenter     | Talk Title
 --------------|------------
@@ -266,9 +265,9 @@ David Dickinson | Using Ethical Dilemmas to Predict Antisocial Choices with Real
 --------------------------------------
 
 # Parallel Sessions F
-## Saturday - 11:10am - 12:10pm
+## Saturday - 10:40am - 12:00pm
 
-### **F-1. Choice Process I**
+### **F-1. Choice Process I** - _Atrio 2_ 
 
 Presenter     | Talk Title
 --------------|------------
@@ -277,7 +276,7 @@ Maroš Servátka | Anchoring in Task Duration Estimation
 Aleksandr Alekseev | Success Decomposition: Using Response Times to Measure Ability and Motivation
 Ian Krajbich | The Neural Computation and Comparison of Value in Simple Choice
 
-### **F-2. Inequality**
+### **F-2. Inequality** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -286,7 +285,7 @@ Ingvild Skarpeid | Talent and luck - An Experimental Study on Inequality Accepta
 Caleb Cox |	Inequality and the Allocation of Collective Goods
 Stephan Kroll |	The Effects of Endowment Heterogeneity and Risk Distribution on Burden Sharing in Threshold Public Good Experiments
 
-### **F-3. Health**
+### **F-3. Health** - _Room B_
 
 Presenter     | Talk Title
 --------------|------------
@@ -295,7 +294,7 @@ Manuel Hoffmann |	Influenza Vaccines, Employee Health, and Sickness Absence: A F
 Tabare Capitan |	Nudging Reloaded: Supplementing a Nudge with Other Nudges
 Ellen Green |	The Impact of a Merit-Based Incentive Payment System on Quality of Healthcare:  A Framed Field Experiment 
 
-### **F-4. Environmental**
+### **F-4. Environmental** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------
@@ -304,7 +303,7 @@ César Mantilla | Catch Uncertainty and Reward Schemes in a Commons Dilemma: An 
 Santiago Saavedra Pineda	| Illegal Activities' Response to Revealing its Existence
 James Murphy 	|	Tying Enforcement to Prices in Emissions Markets: An Experimental Evaluation
 
-### **F-5. Contests**
+### **F-5. Contests** - _Room E_
 
 Presenter     | Talk Title
 --------------|------------
@@ -313,7 +312,7 @@ Roman Sheremeta |	Status and Economic Rents:  Experimental Evidence on the Matth
 David Bruner |	Strategic Thinking in Tullock Contests
 Sudipta Sarangi | Electoral College: A Multibattle Contest with Complementarities
 
-### **F-6. Conflict**
+### **F-6. Conflict** - _Room F_
 
 Presenter     | Talk Title
 --------------|------------|
@@ -327,9 +326,9 @@ Juan Vargas	| The Twists and Turns in the Road to Justice in Colombia
 --------------------------------------
 
 # Parallel Sessions G
-## Saturday - 1:40pm - 3:00pm
+## Saturday - 1:30pm - 2:30pm
 
-### **G-1. Field and Natural Experiments**
+### **G-1. Field and Natural Experiments**  - _Atrio 2_
 
 Presenter     | Talk Title
 --------------|------------
@@ -337,7 +336,7 @@ Brit Grosskopf | More Meat for Boys: Statistical Discrimination in British Carve
 Laura Razzolini  | Nudging Museums Attendance: A Field Experiment with High School Teens
 Zhen Zhu |	The Power of Audio Advertising: A Field Experiment on Pandora Internet Radio
 
-### **G-2. Other-regarding Preferences III**
+### **G-2. Other-regarding Preferences III** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -345,7 +344,7 @@ Weiwei Tasch	 | Social Preferences and Social Curiosity
 Marcello Negrini | Intertemporal Social Preferences
 Aljaz Ule | Dilution Illusion
 
-### **G-3. Gender and Bargaining**
+### **G-3. Gender and Bargaining** - _Room B_
 
 Presenter     | Talk Title
 --------------|------------
@@ -353,7 +352,7 @@ Lise Vesterlund | Banning Negotiation: Is Differential Pay Eliminated when Left 
 Lina Lozano  | The Impact of the Menstrual Cycle on Bargaining Behavior
 Ananish Chaudhuri | (Un)Willing to Lead? Gender and Leadership in the Corporate Turn-Around Game
 
-### **G-4. Learning**
+### **G-4. Learning** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------
@@ -361,7 +360,7 @@ Santiago Sautua |	When Diversification Clashes with the Reinforcement Heuristic:
 Catalina Franco |	How do Beliefs and Feedback Affect Decision Making Among Students? Evidence from a Field Experiment
 Orsola Garofalo |	Learning by Mistaking? Optimism and Entrepreneurial Innovation
 
-### **G-5. Groups**
+### **G-5. Groups** - _Room E_
 
 Presenter     | Talk Title
 --------------|------------
@@ -369,7 +368,7 @@ Sebastian Fehrler | Delegation to a Group
 Pol Campos-Mercade |	Helping Behavior and Group Size
 David Cooper |	Why Join a Team?
 
-### **G-6. Social Norms and Culture**
+### **G-6. Social Norms and Culture** - _Room F_
 
 Presenter     | Talk Title
 --------------|------------
