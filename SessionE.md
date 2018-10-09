@@ -1,8 +1,8 @@
 # Parallel Sessions E
-## Saturday - 9:30am - 10:50am
+## Saturday - 9:00am - 10:20am
 [Back to Sessions Overview](README.md)
 
-### **E-1. Emotions**
+### **E-1. Emotions** - _Atrio 2_
 
 Presenter     | Talk Title
 --------------|------------
@@ -11,7 +11,7 @@ Flora Li | Threats
 Eric Schnitter |	Trust in Humans, Robots, and Cyborgs
 Charles Noussair | Emotional State and Risk Aversion
 
-### **E-2. Punishment**
+### **E-2. Punishment** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -20,7 +20,7 @@ Sining Wang | Seeing is “Behaving”: Using Revealed-Strategy Approach to Unde
 Louis Putterman | Self-Governance in Noisy Social Dilemmas: Experimental Evidence on Punishment with Costly Monitoring
 Brock Stoddard | Common-Value Public Goods and Informational Social Dilemmas
 
-### **E-3. Gender**	
+### **E-3. Gender** - _Room B_	
 
 Presenter     | Talk Title
 --------------|------------|
@@ -29,7 +29,7 @@ Kristine Koutout | Second-Order Beliefs
 Peilu Zhang	| Social Norms and Competitiveness: My Willingness to Compete Depends on Who I am (Supposed to Be)
 Emma Heikensten | Simon Says: Examining Gender Differences in Advice Seeking and Influence in the Lab
 
-### **E-4. Risk II**
+### **E-4. Risk II** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------|
@@ -38,7 +38,7 @@ Rick Wilson |	BRET, Risk Instruments and Populations: Gender as the Gold Standar
 Remy Levin |	Endogenous Preference Formation in a Developing Economy
 Colin Corbett |	Risk Preferences and Endowments in Different Domains
 
-### **E-5. Auctions**
+### **E-5. Auctions** - _Room E_
 
 Presenter     | Talk Title
 --------------|------------
@@ -47,7 +47,7 @@ Bryan McCannon | Shill Bidding and Trust
 Kristian Lopez Vargas | Experiments in High-Frequency Trading: Testing the Frequent Batch Auction
 Cary Deck | Fast Auctions
 
-### **E-6. Norms and Social Behavior**
+### **E-6. Norms and Social Behavior** - _Room F_
 
 Presenter     | Talk Title
 --------------|------------
