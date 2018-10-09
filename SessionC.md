@@ -46,50 +46,8 @@ Aljaz Ule     | The Economic Foundation of Meaning
 
 
 
-### **C-2. Choice Process I**
-
-Presenter     | Talk Title
---------------|------------
-Irene Maria Buso | Choice Process Under Uncertainty: An Eye-Tracking Analysis
-Maroš Servátka | Anchoring in Task Duration Estimation
-Aleksandr Alekseev | Success Decomposition: Using Response Times to Measure Ability and Motivation
-Ian Krajbich | The Neural Computation and Comparison of Value in Simple Choice
-
-
-
-
-
-
-
-
-
-
-### **C-6. Health**
-
-Presenter     | Talk Title
---------------|------------
-Paul Andres Rodriguez Lesmes |	Building Social Capital: Lack of impacts or poor measurements?
-Manuel Hoffmann |	Influenza Vaccines, Employee Health, and Sickness Absence: A Field Experiment at the Workplace
-Tabare Capitan |	Nudging Reloaded: Supplementing a Nudge with Other Nudges
-Ellen Green |	The Impact of a Merit-Based Incentive Payment System on Quality of Healthcare:  A Framed Field Experiment 
-
-
-### **C-7. Punishment**
-
-Presenter     | Talk Title
---------------|------------
-Marc Willinger |	Effectiveness of Peer Punishment Under Negative Framing
-Tingting Fu |	Kind Concealment to Protect: The Effects of Information on Higher-Order Punishment
-Louis Putterman |	Self-Governance in Noisy Social Dilemmas: Experimental Evidence on Punishment with Costly Monitoring
 
 	
-### **C-8. Choice Process II**
 
-Presenter     | Talk Title
---------------|------------
-Alexander Brown |	Can Individuals Recognize Selected Information When They Satisfice? An Experimental Investigation
-Ian Chadd |	Random Network Choice: Theory and Experiment
-Sheen S. Levine |	Should I Stay or Should I Go: The Cognition of Search Under Ambiguity
-Jim Ingebretsen Carlson |	Visual Attraction: Modes of Presentation and Focusing in Economic Choice
 
 
