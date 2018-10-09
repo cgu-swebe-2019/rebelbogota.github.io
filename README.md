@@ -3,7 +3,7 @@
 What is globalization?
 A <a href="https://www.economicscience.org/page/conference/2018-north-american-esa-conference-antigua-guatemala" target="_blank"> North American </a> Experimental Economics Meeting
 held in <a href="https://www.theguardian.com/travel/2018/mar/30/antigua-guatemala-city-guide-what-to-see-where-to-eat-drink-stay" target="_blank"> Central America</a> 
-organized by a <a href="http://www.urosario.edu.co/rebel" target="_blank"> South American </a> Lab.
+organized by a <a href="http://www.urosario.edu.co/REBEL/Our-team/" target="_blank"> South American </a> Lab.
 
 <a href="http://www.urosario.edu.co/2018ESA/inicio/" target="_blank"> Click here to go to the official Conference Site</a>
 
