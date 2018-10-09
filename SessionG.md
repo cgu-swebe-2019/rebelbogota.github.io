@@ -2,66 +2,53 @@
 ## Saturday - 1:40pm - 3:00pm
 [Back to Sessions Overview](README.md)
 
-**G-1. Emotions**
-
-Presenter     | Talk Title
---------------|------------
-Dimitra Papadovasilaki | Financial Crises and Emotions-An Experimental Study
-Flora Li | Threats
-Eric Schnitter |	Trust in Humans, Robots, and Cyborgs
-Charles Noussair | Emotional State and Risk Aversion
-
-**G-2. Field and Natural Experiments**
+**G-1. Field and Natural Experiments**
 
 Presenter     | Talk Title
 --------------|------------
 Brit Grosskopf | More Meat for Boys: Statistical Discrimination in British Carvery Restaurants
 Laura Razzolini  | Nudging Museums Attendance: A Field Experiment with High School Teens
-Kevin McLaughlin |	The Power of Audio Advertising: A Field Experiment on Pandora Internet Radio
-Duru Cojoc | Grade Inflation without Compression: An Experiment in Nominal (Grade) Illusion
+Zhen Zhu |	The Power of Audio Advertising: A Field Experiment on Pandora Internet Radio
+
+**G-2. Other-regarding Preferences III**
+
+Presenter     | Talk Title
+--------------|------------
+Weiwei Tasch	 | Social Preferences and Social Curiosity
+Marcello Negrini | Intertemporal Social Preferences
+Aljaz Ule | Dilution Illusion
 
 **G-3. Gender and Bargaining**
 
 Presenter     | Talk Title
 --------------|------------
 Lise Vesterlund | Banning Negotiation: Is Differential Pay Eliminated when Left to Manager Discretion?
-Hung-Ni Chen   | Gender Difference and Risk Preference: An Experiment on Dynamic Unstructured Bargaining with Private Information
-Shuwen Li  | Stochastic Bargaining Over Gains and Losses: Evidence from the Lab
 Lina Lozano  | The Impact of the Menstrual Cycle on Bargaining Behavior
+Ananish Chaudhuri | (Un)Willing to Lead? Gender and Leadership in the Corporate Turn-Around Game
 
-**G-4. Game Theory II**
-
-Presenter     | Talk Title
---------------|------------
-Stephan Jagau  | Expectation-Based Psychological Games and Psychological Expected Utility
-Despoina Alempaki | Preference Reversals under Strategic Uncertainty
-Matthew McMahon  | Virtue Signaling: Using Risk Preferences to Signal Trustworthiness
-Romain  Gauriot  | Nash at Wimbledon: Evidence from Half a Million Serves
-
-**G-5. Beliefs and Overconfidence**
+### **G-4. Learning**
 
 Presenter     | Talk Title
 --------------|------------
-Vojtech Zika  | Equlibrium of Overconfidence
-Catalina Franco  | How do Beliefs and Feedback Affect Decision Making Among Students? Evidence from a Field Experiment
-Daniel Gomez  | Overconfidence and Contracts: An Experiment
-Pol Campos-Mercade   | The Effects of Incentivized Goals on Academic Achievement
+Santiago Sautua |	When Diversification Clashes with the Reinforcement Heuristic: An Experimental Investigation
+Catalina Franco |	How do Beliefs and Feedback Affect Decision Making Among Students? Evidence from a Field Experiment
+Orsola Garofalo |	Learning by Mistaking? Optimism and Entrepreneurial Innovation
 
-**G-6. Social Behavior and Compliance**
-
-Presenter     | Talk Title
---------------|------------
-Alexander Gotthard Real | A Veil on Selfishness vs a Veil on Fairness
-Jana Freundt  | Manipulated Votes and Rule Compliance: Evidence from a Field Experiment
-Milos Fisar  | Tax Compliance with Endogenous Audit Selection 
-
-**G-7. Coordination**
+### **G-5. Groups**
 
 Presenter     | Talk Title
 --------------|------------
-Carles Solá   | Coordination in Volatile Environments with Time Constraints and Heterogeneities
-Joaquin Gomez-Minambres   | Non-binding Goals in Teams: A Real Effort Coordination Experiment
-Nejat Anbarci   |Payoff Inequity Reduces the Effectiveness of Correlated--Equilibrium Recommendations
-Aljaz Ule 	  | The Economic Foundation of Meaning
+Sebastian Fehrler | Delegation to a Group
+Pol Campos-Mercade |	Helping Behavior and Group Size
+David Cooper |	Why Join a Team?
+
+### **G-6. Social Norms and Culture**
+
+Presenter     | Talk Title
+--------------|------------
+Pavitra Govindan | How Do Group Norms Affect Individuals’ Compliance with Formal Rules?
+Erik Kimbrough | Experiments on Kinship, Culture and Favoritism
+Diego Aycinena |	Social Norms and Dishonesty Across Societies
+
 
 [Back to Sessions Overview](README.md)
