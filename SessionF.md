@@ -59,13 +59,3 @@ Juan Vargas	| The Twists and Turns in the Road to Justice in Colombia
 [Back to Sessions Overview](README.md)
 
 
-
-
-### **F-7. Learning**
-
-Presenter     | Talk Title
---------------|------------
-Santiago Sautua |	When Diversification Clashes with the Reinforcement Heuristic: An Experimental Investigation
-Thomas Graeber |	Inattentive Inference
-Orsola Garofalo |	Learning by Mistaking? Optimism and Entrepreneurial Innovation
-
