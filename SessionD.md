@@ -43,8 +43,3 @@ César Martinelli | Collective Experimentation: A Laboratory Study
 Jose Castillo |	Political Accountability and Democratic Institutions: An Experimental Assessment
 
 [Back to Sessions Overview](README.md)
-
-
-
-
-
