@@ -57,13 +57,3 @@ Veronica Rattini | Worker Discretion and Performance: Evidence from a Real-Effor
 Tim Cason | Social Dilemmas with Agency Risk
 
 [Back to Sessions Overview](README.md)
-
-
-
-
-
-
-
-
-
-
