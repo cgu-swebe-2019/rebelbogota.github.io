@@ -2,14 +2,49 @@
 ## Friday - 2:10pm - 11:20am
 [Back to Sessions Overview](README.md)
 
-### **C-1. Identity and Other-regarding Preferences**
+### **C-1. Game Theory II: Cognition, Persuasion and Beliefs**
 
 Presenter     | Talk Title
 --------------|------------
-James Cox | Cultural Identities and Resolution of Social Dilemmas
-David Wozniak | Ethnic Discrimination in the Lab: Evidence of Statistical and Taste-Based Discrimination
-Husnain Fateh Ahmad |	Political Context and Ethnic Bias: Evidence from a Dictator Game
-Mariana Blanco | To Segregate or to Discriminate - That is the Question: Experiment on Identity and Social Preferences
+Jonathan Woon	| Incomplete Counterfactual Cognition and the Strategy Method in Cheap Talk Games
+Huan Xie	| Persuasion Bias in Science: An Experiment
+Rene Levinsky |	Preferences, Beliefs, and Strategic Plays in Games
+
+### **C-2. Charitable Giving**
+
+Presenter     | Talk Title
+--------------|------------
+Rick Wilson  | Charity Begins at Home: A Lab-in-the-Field Experiment on Dictatorial Giving
+Neslihan Uler | Collaborative Versus Independent Fundraising
+Monica Capra  | Volunteer Now or Later: The Effects of Effort Time Allocation on Donations
+
+### **C-3. Labor: Discrimination**
+
+Presenter     | Talk Title
+--------------|------------
+M. Rashid Memon | Simon Says: Valuing Women's Voice - Sexism and Mansplaining in the Labor Market
+Michal Durinik	| Group Identity and Post-Promotion Effort
+Luz Salas 	| Do Firms Redline Workers? A controlled Experiment in Bogotá
+
+### **C-4. Markets and Industrial Organization**
+
+Presenter     | Talk Title
+--------------|------------
+Radovan Vadovic | Catering to Markets through Strategic Investment: Theory and Experiment
+Josh Deutschmann | Nonlinear Pricing Complexity and Consumer Behavior
+Dustin Tracy | The Impact of Vertical Integration in Complex Markets
+
+**C-5. Coordination**
+
+Presenter     | Talk Title
+--------------|------------
+Carles Solá   | Coordination in Volatile Environments with Time Constraints and Heterogeneities
+Nejat Anbarci |Payoff Inequity Reduces the Effectiveness of Correlated--Equilibrium Recommendations
+Aljaz Ule     | The Economic Foundation of Meaning
+
+[Back to Sessions Overview](README.md)
+
+
 
 ### **C-2. Choice Process I**
 
@@ -20,34 +55,13 @@ Maroš Servátka | Anchoring in Task Duration Estimation
 Aleksandr Alekseev | Success Decomposition: Using Response Times to Measure Ability and Motivation
 Ian Krajbich | The Neural Computation and Comparison of Value in Simple Choice
 
-### **C-3. Game Theory**
-
-Presenter     | Talk Title
---------------|------------
-Alexander Smith |	Behavior in Four Simple Economic Games
-Andrew Kloosterman |	Cooperation When Defection is Risky Too
-Rene Levinsky |	Preferences, Beliefs, and Strategic Plays in Games
-James Bland |	Two Extensions to the Strategy Frequency Estimation Method
 
 
-### **C-4. Risk II**
-
-Presenter     | Talk Title
---------------|------------
-Santiago Alonso-Díaz |	A (Potentially) Universal Bias in Choices that Involve Discrete Probabilities
-Paul Healy |	Randomization Across Domains: Testing Theories of Probability Matching and Convex Preferences
-Paul Feldman |	Revealed Convex Preferences Over Lotteries: Model Selection of Alternative Choice Theories
-Irene Mussio |	Reconciling Health and Wealth Background Risks: An Analysis of Risk Aversion when Higher-Order Preferences are Considered
 
 
-### **C-5. Voting and Committees**
 
-Presenter     | Talk Title
---------------|------------
-Sebastian Fehrler |	Committee Decision-Making under the Threat of Leaks
-Jose Alberto Guerra |	Ethical Collective Choice: Voting for Charitable Giving and Contributing to Public Goods
-O'Sub Kwon |	Forcing to Persuade with the Unanimity Rule
-Jorge Gallego |	Runoff Elections in the Laboratory
+
+
 
 
 ### **C-6. Health**
@@ -78,4 +92,4 @@ Ian Chadd |	Random Network Choice: Theory and Experiment
 Sheen S. Levine |	Should I Stay or Should I Go: The Cognition of Search Under Ambiguity
 Jim Ingebretsen Carlson |	Visual Attraction: Modes of Presentation and Focusing in Economic Choice
 
-[Back to Sessions Overview](README.md)
+
