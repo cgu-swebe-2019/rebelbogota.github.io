@@ -27,39 +27,37 @@ Each presenter will have 20 minutes, including questions.
 Time | Event
 -----|------
 8:45am-6:00pm | Pre-Conference Workshop: Choice Process Data <a href="http://www.urosario.edu.co/2018ESA/Documentos/Tentative_workshop_schedule_v6.pdf" target="_blank"> (program) </a> 
-6:00pm | Welcome Reception
+5:30pm | Welcome Reception - Hotel Casa Santo Domingo
 
 **Friday, October 19th** 
 
 Time | Event
 -----|------
-8:00am | Registration
-8:30am | Welcome remarks
+7:45am | Registration
+8:30am | Opening remarks
 8:40am | Opening Keynote: <a href="https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=9&Itemid=474" target="_blank"> <b>Juan Camilo Cárdenas</b> </a> (Universidad de los Andes)
 10:00am | [Parallel Sesions A](SessionA.md)
 11:00am | Coffee break
 11:20am | [Parallel Sesions B](SessionB.md)
 12:40pm | Lunch Break
 2:10pm | [Parallel Sesions C](SessionC.md)
-3:30pm | Coffee Break
-3:50pm | [Parallel Sesions D](SessionD.md)
-5:10pm | End of Academic Activities - Day 1
+3:10pm | Coffee Break
+3:30pm | [Parallel Sesions D](SessionD.md)
+4:30pm | End of Academic Activities - Day 1
 
 **Saturday, October 20th** 
 
 Time | Event
 -----|------
-9:30am | [Parallel Sesions E](SessionE.md)
-10:50am | Coffee Break
-11:10am | [Parallel Sesions F](SessionF.md)
-12:10pm | Lunch Break
-1:40pm | [Parallel Sesions G](SessionG.md)
-3:00pm | Coffee Break
-3:20pm | Closing Keynote: <a href="https://www.gate.cnrs.fr/spip.php?article197&lang=fr" target="_blank"> <b>Marie Claire Villeval</b> </a> (CNRS, GATE, University of Lyon) 
-4:30pm | End of Academic Activities - Day 2
-6:00pm | Conference Dinner
-
-
+9:00am | [Parallel Sesions E](SessionE.md)
+10:20am | Coffee Break
+10:40am | [Parallel Sesions F](SessionF.md)
+12:00pm | Lunch Break
+1:30pm | [Parallel Sesions G](SessionG.md)
+2:30pm | Coffee Break
+2:50pm | Closing Keynote: <a href="https://www.gate.cnrs.fr/spip.php?article197&lang=fr" target="_blank"> <b>Marie Claire Villeval</b> </a> (CNRS, GATE, University of Lyon) 
+4:00pm | End of Academic Activities - Day 2
+6:30pm | Conference Dinner - Casa Popenoe
 
 
 ### Support or Contact
