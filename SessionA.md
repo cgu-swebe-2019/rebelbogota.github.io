@@ -1,8 +1,8 @@
 # Parallel Sessions A
-## Friday - 10:20 am - 11:20am
+## Friday - 10:00 am - 11:00am
 [Back to Sessions Overview](README.md)
 
-### **A-1. Choice Process - Cognition**
+### **A-1. Choice Process - Cognition** - _Atrio 2_
 
 Presenter     | Talk Title
 --------------|------------
@@ -10,7 +10,7 @@ Michelle Segovia | The Effect of Food Anticipation on Cognitive Ability in the P
 Ian Krajbich |	Modeling Biases in Decision Making
 Roman Sheremeta | Testing the Dual Process Model: The Effects of Different Cognitive Manipulations on Economic Decision Making
 
-### **A-2. Trust and Trustworthiness**
+### **A-2. Trust and Trustworthiness** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -18,7 +18,7 @@ Hernan Bejarano | How Do Endowment Shocks Affect Trust and Trustworthiness?
 Daniel Lee      |	Towards an Understanding of the Demand for Low Probability Insurance
 Matthew McMahon |	Virtue Signaling: Using Risk Preferences to Signal Trustworthiness
 
-### **A-3. Labor: Monitoring, Identity and Motivation**
+### **A-3. Labor: Monitoring, Identity and Motivation** - _Room B_
 
 Presenter     | Talk Title
 --------------|------------|
@@ -26,7 +26,7 @@ Kuangli Xie |	How Reporting Affects Workers' Behavior?
 Priyanka Chakraborty |	Testing the Effects of Mentorship versus Sponsorship Programs in Organizations: An Experiment
 Denise Laroze	| Populism and Immigration Demand: Preferences of High-Skilled Laborers Around the World
 
-### **A-4. Information and Resolution of Uncertainty**
+### **A-4. Information and Resolution of Uncertainty** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------
@@ -34,7 +34,7 @@ Andrei Gomberg | Read a Book, and We'll Talk Later'': Rational Ignorance and Tim
 Michal Krawczyk | The representativeness heuristic and the choice of lottery tickets: A field experiment
 Thomas Meissner | Measuring Preference Over the Temporal Resolution of Consumption Uncertainty
 
-### **A-5. Game Theory I**
+### **A-5. Game Theory I** - _Room E_
 
 Presenter     | Talk Title
 --------------|------------
