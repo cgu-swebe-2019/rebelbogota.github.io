@@ -43,11 +43,3 @@ Nejat Anbarci |Payoff Inequity Reduces the Effectiveness of Correlated--Equilibr
 Aljaz Ule     | The Economic Foundation of Meaning
 
 [Back to Sessions Overview](README.md)
-
-
-
-
-	
-
-
-
