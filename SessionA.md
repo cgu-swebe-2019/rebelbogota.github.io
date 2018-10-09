@@ -25,7 +25,7 @@ Kuangli Xie |	How Reporting Affects Workers' Behavior?
 Priyanka Chakraborty |	Testing the Effects of Mentorship versus Sponsorship Programs in Organizations: An Experiment
 Denise Laroze	| Populism and Immigration Demand: Preferences of High-Skilled Laborers Around the World
 
-### **A-4. Information and resolution of uncertainty**
+### **A-4. Information and Resolution of Uncertainty**
 
 Presenter     | Talk Title
 --------------|------------
@@ -33,7 +33,7 @@ Andrei Gomberg | Read a Book, and We'll Talk Later'': Rational Ignorance and Tim
 Michal Krawczyk | The representativeness heuristic and the choice of lottery tickets: A field experiment
 Thomas Meissner | Measuring Preference Over the Temporal Resolution of Consumption Uncertainty
 
-### **A-5. Game Theory I **
+### **A-5. Game Theory I**
 
 Presenter     | Talk Title
 --------------|------------
