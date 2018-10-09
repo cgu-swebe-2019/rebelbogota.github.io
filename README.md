@@ -16,7 +16,7 @@ You can click on "Parallel Sessions" to get detailed information of sessions and
 
 You can also check the complete program [here](fullprogram.md).
 
-You can download the program <a href="http://www.urosario.edu.co/2018ESA/Documentos/Tentative_workshop_schedule_v6.pdf" target="_blank"> here (without abstracts) </a> or <a href="http://www.urosario.edu.co/2018ESA/Documentos/Tentative_workshop_schedule_v6.pdf" target="_blank"> here (with abstracts) </a>.
+You can download the program <a href="https://drive.google.com/open?id=1bg6NVhHlqZA07Ygc3pPtLqnGlQFw6sx5" target="_blank"> here (without abstracts) </a> or <a href="https://drive.google.com/open?id=1F8wMM9Q2Dk8Zl_AWziiT-Ug8d6NWl4uI" target="_blank"> here (with abstracts) </a>.
 
 As you may note, parallel sessions with three presentations will run for 60 minutes and parallel sessions with four presentations will run for 80 minutes. 
 
