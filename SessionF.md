@@ -2,7 +2,7 @@
 ## Saturday - 11:10am - 12:10pm
 [Back to Sessions Overview](README.md)
 
-### **F-1. Choice Process I**
+### **F-1. Choice Process I** - _Atrio 2_ 
 
 Presenter     | Talk Title
 --------------|------------
@@ -11,7 +11,7 @@ Maroš Servátka | Anchoring in Task Duration Estimation
 Aleksandr Alekseev | Success Decomposition: Using Response Times to Measure Ability and Motivation
 Ian Krajbich | The Neural Computation and Comparison of Value in Simple Choice
 
-### **F-2. Inequality**
+### **F-2. Inequality** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -20,7 +20,7 @@ Ingvild Skarpeid | Talent and luck - An Experimental Study on Inequality Accepta
 Caleb Cox |	Inequality and the Allocation of Collective Goods
 Stephan Kroll |	The Effects of Endowment Heterogeneity and Risk Distribution on Burden Sharing in Threshold Public Good Experiments
 
-### **F-3. Health**
+### **F-3. Health** - _Room B_
 
 Presenter     | Talk Title
 --------------|------------
@@ -29,7 +29,7 @@ Manuel Hoffmann |	Influenza Vaccines, Employee Health, and Sickness Absence: A F
 Tabare Capitan |	Nudging Reloaded: Supplementing a Nudge with Other Nudges
 Ellen Green |	The Impact of a Merit-Based Incentive Payment System on Quality of Healthcare:  A Framed Field Experiment 
 
-### **F-4. Environmental**
+### **F-4. Environmental** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------
@@ -38,7 +38,7 @@ César Mantilla | Catch Uncertainty and Reward Schemes in a Commons Dilemma: An 
 Santiago Saavedra Pineda	| Illegal Activities' Response to Revealing its Existence
 James Murphy 	|	Tying Enforcement to Prices in Emissions Markets: An Experimental Evaluation
 
-### **F-5. Contests**
+### **F-5. Contests** - _Room E_
 
 Presenter     | Talk Title
 --------------|------------
@@ -47,7 +47,7 @@ Roman Sheremeta |	Status and Economic Rents:  Experimental Evidence on the Matth
 David Bruner |	Strategic Thinking in Tullock Contests
 Sudipta Sarangi | Electoral College: A Multibattle Contest with Complementarities
 
-### **F-6. Conflict**
+### **F-6. Conflict** - _Room F_
 
 Presenter     | Talk Title
 --------------|------------|
