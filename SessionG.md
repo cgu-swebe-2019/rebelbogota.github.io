@@ -1,5 +1,5 @@
 # Parallel Sessions G
-## Saturday - 1:40pm - 3:00pm
+## Saturday - 1:30pm - 2:30pm
 [Back to Sessions Overview](README.md)
 
 ### **G-1. Field and Natural Experiments**  - _Atrio 2_
