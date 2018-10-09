@@ -46,6 +46,7 @@ Andrew Kloosterman |	Cooperation When Defection is Risky Too
 James Bland |	Two Extensions to the Strategy Frequency Estimation Method
 
 [Back to Sessions Overview](README.md)
+
 <a href="#top">Back to top</a>
 
 --------------------------------------
@@ -108,6 +109,7 @@ Veronica Rattini | Worker Discretion and Performance: Evidence from a Real-Effor
 Tim Cason | Social Dilemmas with Agency Risk
 
 [Back to Sessions Overview](README.md)
+
 <a href="#top">Back to top</a>
 
 --------------------------------------
@@ -156,6 +158,7 @@ Nejat Anbarci |Payoff Inequity Reduces the Effectiveness of Correlated--Equilibr
 Aljaz Ule     | The Economic Foundation of Meaning
 
 [Back to Sessions Overview](README.md)
+
 <a href="#top">Back to top</a>
 
 --------------------------------------
@@ -204,6 +207,7 @@ César Martinelli | Collective Experimentation: A Laboratory Study
 Jose Castillo |	Political Accountability and Democratic Institutions: An Experimental Assessment
 
 [Back to Sessions Overview](README.md)
+
 <a href="#top">Back to top</a>
 
 --------------------------------------
@@ -266,6 +270,7 @@ Jana Cahlikova	| Antisocial Behavior in Groups
 David Dickinson | Using Ethical Dilemmas to Predict Antisocial Choices with Real Payoff Consequences: An Experimental Study
 
 [Back to Sessions Overview](README.md)
+
 <a href="#top">Back to top</a>
 
 --------------------------------------
@@ -328,6 +333,7 @@ Arturo Harker	| Semillas de Apego: Experimental Evaluation of a Groupbased Progr
 Juan Vargas	| The Twists and Turns in the Road to Justice in Colombia
 
 [Back to Sessions Overview](README.md)
+
 <a href="#top">Back to top</a>
 
 --------------------------------------
@@ -384,4 +390,5 @@ Erik Kimbrough | Experiments on Kinship, Culture and Favoritism
 Diego Aycinena |	Social Norms and Dishonesty Across Societies
 
 [Back to Sessions Overview](README.md)
+
 <a href="#top">Back to top</a>
