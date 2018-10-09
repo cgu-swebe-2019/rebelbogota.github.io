@@ -2,7 +2,7 @@
 ## Saturday - 1:40pm - 3:00pm
 [Back to Sessions Overview](README.md)
 
-**G-1. Field and Natural Experiments**
+### **G-1. Field and Natural Experiments**
 
 Presenter     | Talk Title
 --------------|------------
@@ -10,7 +10,7 @@ Brit Grosskopf | More Meat for Boys: Statistical Discrimination in British Carve
 Laura Razzolini  | Nudging Museums Attendance: A Field Experiment with High School Teens
 Zhen Zhu |	The Power of Audio Advertising: A Field Experiment on Pandora Internet Radio
 
-**G-2. Other-regarding Preferences III**
+### **G-2. Other-regarding Preferences III**
 
 Presenter     | Talk Title
 --------------|------------
@@ -18,7 +18,7 @@ Weiwei Tasch	 | Social Preferences and Social Curiosity
 Marcello Negrini | Intertemporal Social Preferences
 Aljaz Ule | Dilution Illusion
 
-**G-3. Gender and Bargaining**
+### **G-3. Gender and Bargaining**
 
 Presenter     | Talk Title
 --------------|------------
