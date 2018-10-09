@@ -2,7 +2,7 @@
 ## Saturday - 9:30am - 10:50am
 [Back to Sessions Overview](README.md)
 
-**E-1. Emotions**
+### **E-1. Emotions**
 
 Presenter     | Talk Title
 --------------|------------
