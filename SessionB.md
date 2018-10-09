@@ -1,8 +1,8 @@
 # Parallel Sessions B
-## Friday - 11:40 am - 12:40pm
+## Friday - 11:20 am - 12:40pm
 [Back to Sessions Overview](README.md)
 
-### **B-1. Methodology and Design of Experiments**
+### **B-1. Methodology and Design of Experiments** - _Atrio 2_
 
 Presenter     | Talk Title
 --------------|------------
@@ -11,7 +11,7 @@ David Freeman | Why Choice Lists Increase Risk Taking
 Barry Sopher  | Context in Choice:  Behavioral Bias or Economic Behavior?
 Po-Hsuan Lin  | The Generality of Economic Principles of Bargaining and Trade: Evidence from 2,164 Classroom Experiments
 
-### **B-2. Identity and Other-regarding Preferences**
+### **B-2. Identity and Other-regarding Preferences** - _Room A_
 
 Presenter     | Talk Title
 --------------|------------
@@ -20,7 +20,7 @@ Antonio Alonso Arechar |	The Skin Kids Live in: The Role of Racial and Class Ste
 Timothy MacNeill | Altruistic Behavior and Ethnic Diversity: Evidence from Honduras
 Mariana Blanco | To Segregate or to Discriminate - That is the Question: Experiment on Identity and Social Preferences
 
-### **B-3. Bargaining**
+### **B-3. Bargaining** - _Room B_
 
 Presenter     | Talk Title
 --------------|------------
@@ -29,7 +29,7 @@ Kyle Hyndman |	Dissolving Partnerships Under Risk: An Experimental Investigation
 Simon Siegenthaler |	Experiments on Multidimensional Bargaining
 Shuwen Li | Stochastic Bargaining Over Gains and Losses: Evidence from the Lab
 
-### **B-4. Risk I**
+### **B-4. Risk I** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------
@@ -38,7 +38,7 @@ Paul Feldman |	Revealed Convex Preferences Over Lotteries: Model Selection of Al
 Irene Mussio |	Reconciling Health and Wealth Background Risks: An Analysis of Risk Aversion when Higher-Order Preferences are Considered
 Paul Healy |	Randomization Across Domains: Testing Theories of Probability Matching and Convex Preferences
 
-### **B-5. Voting and Committees**
+### **B-5. Voting and Committees** - _Room E_
 
 Presenter     | Talk Title
 --------------|------------
@@ -47,7 +47,7 @@ O'Sub Kwon |	Forcing to Persuade with the Unanimity Rule
 Jorge Gallego |	Runoff Elections in the Laboratory
 Sebastian Fehrler |	Committee Decision-Making under the Threat of Leaks
 
-### **B-6. Contracts**
+### **B-6. Contracts** - _Room F_
 
 Presenter     | Talk Title
 --------------|------------
