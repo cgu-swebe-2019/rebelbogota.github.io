@@ -1,5 +1,5 @@
 # Parallel Sessions F
-## Saturday - 11:10am - 12:10pm
+## Saturday - 10:40am - 12:00m
 [Back to Sessions Overview](README.md)
 
 ### **F-1. Choice Process I** - _Atrio 2_ 
