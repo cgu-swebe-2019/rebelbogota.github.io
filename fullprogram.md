@@ -4,7 +4,6 @@
 
 # Parallel Sessions A
 ## Friday - 10:20 am - 11:20am
-[Back to Sessions Overview](README.md)
 
 ### **A-1. Choice Process - Cognition**
 
@@ -51,7 +50,6 @@ James Bland |	Two Extensions to the Strategy Frequency Estimation Method
 
 # Parallel Sessions B
 ## Friday - 11:40 am - 12:40pm
-[Back to Sessions Overview](README.md)
 
 ### **B-1. Methodology and Design of Experiments**
 
@@ -113,7 +111,6 @@ Tim Cason | Social Dilemmas with Agency Risk
 
 # Parallel Sessions C
 ## Friday - 2:10pm - 11:20am
-[Back to Sessions Overview](README.md)
 
 ### **C-1. Game Theory II: Cognition, Persuasion and Beliefs**
 
@@ -161,7 +158,6 @@ Aljaz Ule     | The Economic Foundation of Meaning
 
 # Parallel Sessions D
 ## Friday - 3:50pm - 5:10pm
-[Back to Sessions Overview](README.md)
 
 ### **D-1. Choice Process II**
 
@@ -209,9 +205,8 @@ Jose Castillo |	Political Accountability and Democratic Institutions: An Experim
 
 # Parallel Sessions E
 ## Saturday - 9:30am - 10:50am
-[Back to Sessions Overview](README.md)
 
-**E-1. Emotions**
+### **E-1. Emotions**
 
 Presenter     | Talk Title
 --------------|------------
@@ -271,7 +266,6 @@ David Dickinson | Using Ethical Dilemmas to Predict Antisocial Choices with Real
 
 # Parallel Sessions F
 ## Saturday - 11:10am - 12:10pm
-[Back to Sessions Overview](README.md)
 
 ### **F-1. Choice Process I**
 
@@ -333,7 +327,6 @@ Juan Vargas	| The Twists and Turns in the Road to Justice in Colombia
 
 # Parallel Sessions G
 ## Saturday - 1:40pm - 3:00pm
-[Back to Sessions Overview](README.md)
 
 ### **G-1. Field and Natural Experiments**
 
