@@ -105,6 +105,7 @@ Daniel Gomez 	|	Overconfidence and Contracts: An Experiment
 Timothy Flannery | The Effect of Contract Structure and Intentions on Agent Effort
 Veronica Rattini | Worker Discretion and Performance: Evidence from a Real-Effort Experiment
 Tim Cason | Social Dilemmas with Agency Risk
+
 [Back to Sessions Overview](README.md)
 
 --------------------------------------
