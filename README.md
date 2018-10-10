@@ -57,7 +57,7 @@ Time | Event
 2:30pm | Coffee Break
 2:50pm | Closing Keynote: <a href="https://www.gate.cnrs.fr/spip.php?article197&lang=fr" target="_blank"> <b>Marie Claire Villeval</b> </a> (CNRS, GATE, University of Lyon) 
 4:00pm | End of Academic Activities - Day 2
-6:30pm | Conference Dinner - Casa Popenoe
+6:00pm | Conference Dinner - Casa Popenoe
 
 
 ### Support or Contact
