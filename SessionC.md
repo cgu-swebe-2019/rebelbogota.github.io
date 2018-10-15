@@ -26,7 +26,7 @@ M. Rashid Memon | Simon Says: Valuing Women's Voice - Sexism and Mansplaining in
 Michal Durinik	| Group Identity and Post-Promotion Effort
 Luz Salas 	| Do Firms Redline Workers? A controlled Experiment in Bogotá
 
-### **C-4. Markets and Industrial Organization** - _Room C_
+### **C-4. Industrial Organization, Markets and Health Insurance Regimes** - _Room C_
 
 Presenter     | Talk Title
 --------------|------------
