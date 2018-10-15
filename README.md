@@ -35,8 +35,7 @@ Time | Event
 -----|------
 7:45am | Registration
 8:30am | Opening remarks
-8:40am | Opening Keynote: <a href="https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=9&Itemid=474" target="_blank"> <b>Juan Camilo Cárdenas</b> </a> (Universidad de los Andes) _20 years of bringing
-the lab to the field: Rethinking the pedagogy and application of Economics_
+8:40am | Opening Keynote: <a href="https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=9&Itemid=474" target="_blank"> <b>Juan Camilo Cárdenas</b> </a> (Universidad de los Andes) _20 years of bringing the lab to the field: Rethinking the pedagogy and application of Economics_
 10:00am | [Parallel Sesions A](SessionA.md)
 11:00am | Coffee break
 11:20am | [Parallel Sesions B](SessionB.md)
