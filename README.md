@@ -16,7 +16,7 @@ You can click on "Parallel Sessions" to get detailed information of sessions and
 
 You can also check the complete program [here](fullprogram.md).
 
-You can download the program <a href="https://drive.google.com/file/d/1OkMBilpK3Vy_ea65zDVOwE7KUL1-me-T/view?usp=sharing" target="_blank"> here (without abstracts) </a> or <a href="https://drive.google.com/file/d/1Ek1iV0hEQc6zGkQYz5UzZCloRWVoe6fL/view?usp=sharing" target="_blank"> here (with abstracts) </a>.
+You can download the program <a href="https://drive.google.com/open?id=1Rji4yrEQQK4RYtXx82wrh-wXoUgeasWS" target="_blank"> here (without abstracts) </a> or <a href="https://drive.google.com/open?id=1JOK_lPJejAwWQNXae1oNx-T1mkUQ3Jpv" target="_blank"> here (with abstracts) </a>.
 
 As you may note, parallel sessions with three presentations will run for 60 minutes and parallel sessions with four presentations will run for 80 minutes. 
 
