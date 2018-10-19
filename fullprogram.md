@@ -154,7 +154,7 @@ Dustin Tracy | The Impact of Vertical Integration in Complex Markets
 Presenter     | Talk Title
 --------------|------------
 Carles Solá   | Coordination in Volatile Environments with Time Constraints and Heterogeneities
-Nejat Anbarci |Payoff Inequity Reduces the Effectiveness of Correlated--Equilibrium Recommendations
+Nejat Anbarci | Payoff Inequity Reduces the Effectiveness of Correlated--Equilibrium Recommendations
 Aljaz Ule     | The Economic Foundation of Meaning
 
 [Back to Sessions Overview](README.md)
@@ -292,8 +292,8 @@ Ian Krajbich | The Neural Computation and Comparison of Value in Simple Choice
 Presenter     | Talk Title
 --------------|------------
 Abhijit Ramalingam |	Does Reducing Inequality Increase Cooperation? Cooperative Norms and the Effectiveness of Inequality Reduction
-Ingvild Skarpeid | Talent and luck - An Experimental Study on Inequality Acceptance
 Caleb Cox |	Inequality and the Allocation of Collective Goods
+Ingvild Skarpeid | Talent and luck - An Experimental Study on Inequality Acceptance
 Stephan Kroll |	The Effects of Endowment Heterogeneity and Risk Distribution on Burden Sharing in Threshold Public Good Experiments
 
 ### **F-3. Health** - _Room B_
