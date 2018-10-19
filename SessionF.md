@@ -16,8 +16,8 @@ Ian Krajbich | The Neural Computation and Comparison of Value in Simple Choice
 Presenter     | Talk Title
 --------------|------------
 Abhijit Ramalingam |	Does Reducing Inequality Increase Cooperation? Cooperative Norms and the Effectiveness of Inequality Reduction
-Ingvild Skarpeid | Talent and luck - An Experimental Study on Inequality Acceptance
 Caleb Cox |	Inequality and the Allocation of Collective Goods
+Ingvild Skarpeid | Talent and luck - An Experimental Study on Inequality Acceptance
 Stephan Kroll |	The Effects of Endowment Heterogeneity and Risk Distribution on Burden Sharing in Threshold Public Good Experiments
 
 ### **F-3. Health** - _Room B_
